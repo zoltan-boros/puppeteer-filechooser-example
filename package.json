@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-filechooser-example",
+  "version": "1.0.0",
+  "description": "Puppeteer file chooser (download) example",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "Creative Commons",
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "puppeteer": "^10.0.0"
+  },
+  "jest": {
+    "testTimeout": 20000
+  }
+}
