@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "author": "",
-  "license": "Creative Commons",
+  "license": "ISC",
   "devDependencies": {
     "jest": "^27.0.4",
     "puppeteer": "^10.0.0"
